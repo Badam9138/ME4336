@@ -25,8 +25,8 @@ Bi-weekly Progress Report Checklist:
 - PR6 Wks 11-12 []
 
 Online Profile Task Checklist:
-- Task 1 []
-- Task 2 []
+- Task 1 [x]
+- Task 2 [x]
 - Task 3 []
 - Task 4 []
 - Task 5 []
