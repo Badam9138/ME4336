@@ -5,7 +5,7 @@ This public repository is for tasks regarding my 'Enhanced Placement Engineering
 Weekly Work Log Checklist:
 - WL1 [x]
 - WL2 [x]
-- WL3 []
+- WL3 [x]
 - WL4 []
 - WL5 []
 - WL6 []
@@ -27,9 +27,27 @@ Bi-weekly Progress Report Checklist:
 Online Profile Task Checklist:
 - Task 1 [x]
 - Task 2 [x]
-- Task 3 []
+- Task 3 [x]
 - Task 4 []
 - Task 5 []
 - Task 6 []
 - Task 7 []
 - Task 8 []
+
+Table with 3 rows and 3 colums and title row:
+
+|   |   |   |
+|:--|:-:|--:|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+Ordered List:
+
+Item 1:
+- Sub-item 1
+Item 2:
+- Sub-item 2
+Item 3:
+- Sub-item 3
+
