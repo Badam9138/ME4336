@@ -34,7 +34,7 @@ Online Profile Task Checklist:
 - Task 7 []
 - Task 8 []
 
-Table with 3 rows and 3 colums and title row:
+Table with 3 rows and 3 columns and title row:
 
 |   |   |   |
 |:--|:-:|--:|
