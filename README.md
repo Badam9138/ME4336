@@ -1,6 +1,7 @@
 _Hi, my name is Boushra Adam and I am currently a student enrolled at the University of Limerick. I am studying Digital Mechatronic Engineering am an currently on placement in my third year of college._
 
 This public repository is for tasks regarding my 'Enhanced Placement Engineering Portfolio' module.
+
 ------------------------------------------------------------------------
 **Weekly Work Log Checklist:**
 - [x] WL1
@@ -49,11 +50,15 @@ This public repository is for tasks regarding my 'Enhanced Placement Engineering
 2. Item 2:
   - Sub-item 2
 3. Item 3:
+
 ------------------------------------------------------------------------
 ![University of Limerick Logo](UL_logo.svg)
+
 ------------------------------------------------------------------------
 [CV](CV.md)
+
 ------------------------------------------------------------------------
 [Feasibility Study](fs_report.md)
+
 ------------------------------------------------------------------------
 [Industry White Paper](white_paper.md)
