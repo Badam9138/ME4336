@@ -12,9 +12,9 @@ This public repository is for tasks regarding my 'Enhanced Placement Engineering
 - [x] WL7
 - [x] WL8
 - [x] WL9
-- [] WL10
-- [] WL11
-- [] WL12
+- [ ] WL10
+- [ ] WL11
+- [ ] WL12
 
 **Bi-weekly Progress Report Checklist:**
 - [x] PR1 Wks 1-2
@@ -22,7 +22,7 @@ This public repository is for tasks regarding my 'Enhanced Placement Engineering
 - [x] PR3 Wks 5-6
 - [x] PR4 Wks 7-9
 - [x] PR5 WKs 9-10
-- [] PR6 Wks 11-12
+- [ ] PR6 Wks 11-12
 
 **Online Profile Task Checklist:**
 - [x] Task 1
@@ -50,10 +50,10 @@ This public repository is for tasks regarding my 'Enhanced Placement Engineering
   - Sub-item 2
 3. Item 3:
 ------------------------------------------------------------------------
-![University of Limerick Logo](logo.svg)
+![University of Limerick Logo](UL_logo.svg)
 ------------------------------------------------------------------------
 [CV](CV.md)
 ------------------------------------------------------------------------
-[Feasability Study](fs_report.md)
+[Feasibility Study](fs_report.md)
 ------------------------------------------------------------------------
 [Industry White Paper](white_paper.md)
