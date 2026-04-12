@@ -6,6 +6,8 @@ The primary defects consist of two categories:
 
 1. Major defects: _These include short shots, missing/broken pads, warping of the part and missing clips._
 2.	Minor defects: _These include small debris and black spots on the part._
+
+[Nose Clip Image](nose_clip.svg)
    
 The current inspection procedure involves manual checks of each nose clip that is produced. The inspection operators perform these checks in the cleanroom by visually inspecting the part for the aforementioned defects. The nose clips are boxed in quantities of 900 parts and the expected rate of inspection is around 45-60 mins per box. There are usually two inspection operators working a 12-hour shift, amounting to roughly 20 boxes per shift (accounting for breaks and inefficiency). 
 There are issues that arise from this current process, outside of the overall inefficiency of manual inspection. These include the high static present in the baskets that collect the parts from the machine. This static causes dust particles and foreign matter to accumulate in the basket and thus makes inspection even longer. Another issue arises in the aspect of traceability. As there is currently no method in place to trace the quality of the inspection for the customer – this has led to numerous instances where they have been sent back with the complaint of defects present.
