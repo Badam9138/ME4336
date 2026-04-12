@@ -1,4 +1,5 @@
 **Curriculum Vitae**
+----------------------------------------------------------------------
 
 **Student ID:**  23375655
 **Name:**        BOUSHRA
@@ -10,6 +11,7 @@
 **Work Experience:**
 
 | **Organisaton** | **Start Date** | **End Date** | **Job Title**        |
+|:---|---|---|:---|
 | Duha Clothing   | Aug 2024       | Mar 2025     | Business Owner       |
 | Pair Mobile     | Aug 2023       | Mar 2024     | Sales Assistant      |
 | Ryan's Centra   | Mar 2023       | Mar 2023     | Food Prep. Assistant |
