@@ -1,24 +1,26 @@
------------------------------------------------------------------------------------------------------------------------------------
 **Problem Definition and Context:**
 -----------------------------------------------------------------------------------------------------------------------------------
+
 The pictured plastic nose clips (P.N. 20271) are currently produced by our Fanuc a-S100i (125T) injection moulding machine in a cleanroom environment at volumes of half a million parts per year. As these are shipping to a customer in the medical sector – each part must be ensured to possess no defects outside of the range specified by the customer.
 The primary defects consist of two categories:
-1.	Major defects: These include short shots, missing/broken pads, warping of the part and missing clips.
-2.	Minor defects: These include small debris and black spots on the part.
+
+1. Major defects: _These include short shots, missing/broken pads, warping of the part and missing clips._
+2.	Minor defects: _These include small debris and black spots on the part._
+   
 The current inspection procedure involves manual checks of each nose clip that is produced. The inspection operators perform these checks in the cleanroom by visually inspecting the part for the aforementioned defects. The nose clips are boxed in quantities of 900 parts and the expected rate of inspection is around 45-60 mins per box. There are usually two inspection operators working a 12-hour shift, amounting to roughly 20 boxes per shift (accounting for breaks and inefficiency). 
 There are issues that arise from this current process, outside of the overall inefficiency of manual inspection. These include the high static present in the baskets that collect the parts from the machine. This static causes dust particles and foreign matter to accumulate in the basket and thus makes inspection even longer. Another issue arises in the aspect of traceability. As there is currently no method in place to trace the quality of the inspection for the customer – this has led to numerous instances where they have been sent back with the complaint of defects present.
 Automating this entire procedure could significantly cut down on labour costs, increase inspection efficiency and enhance defect detection accuracy.
 
------------------------------------------------------------------------------------------------------------------------------------
 **Objectives and methodology:**
 -----------------------------------------------------------------------------------------------------------------------------------
+
 The objective of this project is the design and implementation of an automated inspection system for the plastic nose clips. The proposed system integrates a Keyence VS-L500CX vision camera, a backlit conveyor and a linear actuator-driven sorting mechanism. It eliminates the need for full-time operators by detecting, categorising, and sorting parts based on defect presence. The design prioritises cleanroom compatibility and ease of integration with existing equipment. Portability will also be a design consideration with the aim of the system to be capable of inspecting other parts from different machines. Traceability is ensured through automated logging of good/defective part data to an FTP server.
 This proposed line will integrate an automated sorting system which uses the camera output signal to trigger a linear actuator and physically separate good/defective parts, thus eliminating the need for any handling of the part and minimising contamination even further. A static eliminating device will be mounted onto the system to address the issue of foreign matter accumulation. 
 It is also important to note that as part of this project, custom end-of-arm-tooling will be fabricated to remove the parts from their eight-cavity mould and directly onto a conveyor. The ES-1000II Star robot on the Fanuc machine will be programmed so that four parts from one half of the mould are placed on the belt, conveyor indexes, then the other half are placed. This allows the parts to index onto the inspection conveyor in single file.
  			 
------------------------------------------------------------------------------------------------------------------------------------
 **Analysis and results**
 -----------------------------------------------------------------------------------------------------------------------------------
+
 Following the acquirement of the VS-L500CX camera, a series of tests were carried out to evaluate performance and determine its suitability for automated inspection of the nose clips. The primary objective of this phase was to validate that the camera could consistently detect the full range of major and minor defects outlined by the customer.
 Initial testing paired the camera with an LED panel to simulate the backlit conveyor. This setup produced highly consistent illumination, allowing the camera to capture sharp images of each part. Under these conditions, the system demonstrated reliable detection of major defects including missing pads, short shots, broken clips, and warping. These defects were all visibly distinct in the backlit profile, enabling the camera’s inspection program to classify them with ease.
 A dataset of 20 parts was manually inspected and used to calibrate the camera’s thresholds as well as for program validation after setup. Across this sample set, the system achieved 100% detection accuracy for major defects, confirming that the camera can successfully identify all critical defect types that would otherwise lead to customer rejection. For minor defects - primarily small debris, foreign specks, and black spots - the detection accuracy was measured at 90%. The reduced performance in this category was expected, as minor defects are more sensitive to local lighting variations and surface contamination. During testing, some inconsistencies were attributed to dust accumulation on the LED panel rather than the parts themselves, suggesting that the controlled cleanroom conveyor environment may yield improved results.
