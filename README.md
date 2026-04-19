@@ -16,11 +16,11 @@ For a detailed breakdown of my progress, please refer to the [Checklist Document
 ------------------------------------------------------------------------
 **During this placement, I am focusing on the following core engineering pillars:**
 
-1. Systems Integration & Control:
+1. _Systems Integration & Control:_
   - Implementing PLC logic and sensor feedback loops.
-2. Solidworks CAD Software:
+2. _Solidworks CAD Software:_
   - Utilising solidworks to model mechanical assemblies before physical deployment.
-3. Data Analysis & Manipualtion:
+3. _Data Analysis & Manipualtion:_
   - Grpahing and identifying trends in datasets.
 
 ------------------------------------------------------------------------
