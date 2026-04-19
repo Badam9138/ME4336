@@ -6,7 +6,7 @@ _I am a third-year Digital Mechatronic Engineering student at the University of 
 **Placement Milestone Tracking**
 For a detailed breakdown of my progress, please refer to the [Checklist Document](checklist.md)
 
-| Category | Status  | Focus Area |
+| Category | Status  | Description |
 |:--|:-:|:--|
 |Work Logs|10/12|Weekly performace reports|
 |Progress Reports|5/6|Bi-weekly performance reports|
