@@ -1,48 +1,18 @@
-_Hi, my name is Boushra Adam and I am currently a student enrolled at the University of Limerick. I am studying Digital Mechatronic Engineering am an currently on placement in my third year of college._
+**About Me**
 
-This public repository is for tasks regarding my 'Enhanced Placement Engineering Portfolio' module.
+_I am a third-year Digital Mechatronic Engineering student at the University of Limerick, currently completing my professional cooperative education placement. This repository serves as a comprehensive Enhanced Placement Engineering Portfolio, documenting technical milestones, project management, and professional development._
 
 ------------------------------------------------------------------------
-**Weekly Work Log Checklist:**
-- [x] WL1
-- [x] WL2
-- [x] WL3
-- [x] WL4
-- [x] WL5
-- [x] WL6
-- [x] WL7
-- [x] WL8
-- [x] WL9
-- [ ] WL10
-- [ ] WL11
-- [ ] WL12
+**Placement Milestone Tracking**
+For a detailed breakdown of my progress, please refer to the [Checklist Document](checklist.md)
 
-**Bi-weekly Progress Report Checklist:**
-- [x] PR1 Wks 1-2
-- [x] PR2 Wks 3-4
-- [x] PR3 Wks 5-6
-- [x] PR4 Wks 7-9
-- [x] PR5 WKs 9-10
-- [ ] PR6 Wks 11-12
+| Category | Status  | Focus Area |
+|:--|:-:|:--|
+|Work Logs|10/12|Weekly performace reports|
+|Progress Reports|5/6|Bi-weekly performance reports|
+|Portfolio Tasks|8/8|Markdown language tasks|
 
-**Online Profile Task Checklist:**
-- [x] Task 1
-- [x] Task 2
-- [x] Task 3
-- [x] Task 4
-- [x] Task 5
-- [x] Task 6
-- [x] Task 7
-- [x] Task 8
 ------------------------------------------------------------------------
-**Table with 3 rows and 3 columns and title row:**
-
-|   |   |   |
-|:--|:-:|--:|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
 **Ordered List:**
 
 1. Item 1:
@@ -55,10 +25,15 @@ This public repository is for tasks regarding my 'Enhanced Placement Engineering
 ![University of Limerick Logo](UL_logo.svg)
 
 ------------------------------------------------------------------------
-[CV](CV.md)
+Key documents in this portfolio include:
+
+[CV](CV.md) - A summary of my technical skills and experience.
+
+[Feasibility Study](fs_report.md) - Detailed engineering analysis and project viability assessment.
+
+[Industry White Paper](white_paper.md) - Exploration of my 'nose clip' automated inspection project.
 
 ------------------------------------------------------------------------
-[Feasibility Study](fs_report.md)
+**Intellectual Property & Confidentiality**
 
-------------------------------------------------------------------------
-[Industry White Paper](white_paper.md)
+Notice: All content within this repository is subject to Intellectual Property (IP) protections. Technical data related to my placement is shared in compliance with my employer’s non-disclosure agreements (NDA). All original code and documentation are protected under standard copyright, with rights reserved unless otherwise stated.
