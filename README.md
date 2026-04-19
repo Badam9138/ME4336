@@ -12,6 +12,7 @@ _I am a third-year Digital Mechatronic Engineering student at the University of 
 |Portfolio Tasks|8/8|Markdown language tasks|
 
 For a detailed breakdown of my progress, please refer to the [Checklist Document](checklist.md)
+
 ------------------------------------------------------------------------
 **During this placement, I am focusing on the following core engineering pillars:**
 
