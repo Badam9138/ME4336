@@ -33,7 +33,7 @@ During this placement, I am focusing on the following core engineering pillars:
 
 This section includes key documents in this portfolio, as part of this module.
 
-[CV](CV.md) - Automate the quality assurance process for 'nose clips' to reduce manual inspection errors.
+[CV](CV.md) - A summary of my technical skills and experience.
 
 [Feasibility Study](fs_report.md) - Detailed engineering analysis and project viability assessment.
 
@@ -44,11 +44,9 @@ This section includes key documents in this portfolio, as part of this module.
 
 This section highlights the core projects managed during my placement, linking to detailed technical reports and engineering analyses.
 
-[CV](CV.md) - A summary of my technical skills and experience.
+[CV](CV.md) - Automate the quality assurance process for 'nose clips' to reduce manual inspection errors.
 
-[Feasibility Study](fs_report.md) - Detailed engineering analysis and project viability assessment.
-
-[Industry White Paper](white_paper.md) - Exploration of my 'nose clip' automated inspection project.
+[PDM Work Instruction](fs_report.md) - A Work Instruction (WI) document for operating the PDM camera program. 
 
 ------------------------------------------------------------------------
 **Intellectual Property & Confidentiality**
