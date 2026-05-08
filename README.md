@@ -16,7 +16,7 @@ For a detailed breakdown of my progress, please refer to the [Checklist Document
 ------------------------------------------------------------------------
 **Engineering Learning Objectives**
 
-During this placement, I am focusing on the following core engineering pillars:
+_During this placement, I am focusing on the following core engineering pillars:_
 
 1. _Systems Integration & Control:_
   - Focus: Implementing PLC logic and sensor feedback loops.
@@ -31,7 +31,7 @@ During this placement, I am focusing on the following core engineering pillars:
 ------------------------------------------------------------------------
 **Module Documents**
 
-This section includes key documents in this portfolio, as part of this module.
+_This section includes key documents in this portfolio, as part of this module._
 
 [CV](CV.md) - A summary of my technical skills and experience.
 
@@ -42,7 +42,7 @@ This section includes key documents in this portfolio, as part of this module.
 ------------------------------------------------------------------------
 **Engineering Projects & Technical Documentation**
 
-This section highlights the core projects managed during my placement, linking to detailed technical reports and engineering analyses.
+_This section highlights the core projects managed during my placement, linking to detailed technical reports and engineering analyses._
 
 [Nose Clip Architectural Document](nose_clip.md) - Automate the quality assurance process for 'nose clips' to reduce manual inspection errors.
 
