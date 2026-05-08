@@ -44,9 +44,9 @@ This section includes key documents in this portfolio, as part of this module.
 
 This section highlights the core projects managed during my placement, linking to detailed technical reports and engineering analyses.
 
-[CV](CV.md) - Automate the quality assurance process for 'nose clips' to reduce manual inspection errors.
+[Nose Clip Architectural Document](nose_clip.md) - Automate the quality assurance process for 'nose clips' to reduce manual inspection errors.
 
-[PDM Work Instruction](fs_report.md) - A Work Instruction (WI) document for operating the PDM camera program. 
+[PDM Work Instruction](PDM.WI.md) - A Work Instruction (WI) document for operating the PDM camera program. 
 
 ------------------------------------------------------------------------
 **Intellectual Property & Confidentiality**
