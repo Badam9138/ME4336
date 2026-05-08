@@ -8,23 +8,41 @@ _I am a third-year Digital Mechatronic Engineering student at the University of 
 | Category | Status  | Description |
 |:--|:-:|:--|
 |Work Logs|10/12|Weekly performace reports|
-|Progress Reports|5/6|Bi-weekly performance reports|
+|Progress Reports|6/6|Bi-weekly performance reports|
 |Portfolio Tasks|8/8|Markdown language tasks|
 
 For a detailed breakdown of my progress, please refer to the [Checklist Document](checklist.md)
 
 ------------------------------------------------------------------------
-**During this placement, I am focusing on the following core engineering pillars:**
+**Engineering Learning Objectives**
+
+During this placement, I am focusing on the following core engineering pillars:
 
 1. _Systems Integration & Control:_
-  - Implementing PLC logic and sensor feedback loops.
+  - Focus: Implementing PLC logic and sensor feedback loops.
+  - Tools: TIA Portal, Industrial Ethernet, HMI Design.
 2. _Solidworks CAD Software:_
-  - Utilising solidworks to model mechanical assemblies before physical deployment.
+  - Focus: Modeling mechanical assemblies for physical deployment.
+  - Tools: Motion Analysis, Solidworks Electrical.
 3. _Data Analysis & Manipualtion:_
-  - Grpahing and identifying trends in datasets.
+  - Focus: Graphing and identifying trends in datasets.
+  - Tools: Excel Macros, Python.
 
 ------------------------------------------------------------------------
-**Key documents in this portfolio include:**
+**Module Documents**
+
+This section includes key documents in this portfolio, as part of this module.
+
+[CV](CV.md) - Automate the quality assurance process for 'nose clips' to reduce manual inspection errors.
+
+[Feasibility Study](fs_report.md) - Detailed engineering analysis and project viability assessment.
+
+[Industry White Paper](white_paper.md) - Exploration of my 'nose clip' automated inspection project.
+
+------------------------------------------------------------------------
+**Engineering Projects & Technical Documentation**
+
+This section highlights the core projects managed during my placement, linking to detailed technical reports and engineering analyses.
 
 [CV](CV.md) - A summary of my technical skills and experience.
 
