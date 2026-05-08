@@ -1,4 +1,4 @@
-**1.	Introduction **
+**1.	Introduction**
 
 The objective of this project is to achieve a fully automated Nose Clip inspection line that integrates into the current Fanuc a-S100i (125T) machine in the clean room environment. This project aims to eliminate the need for any full-time inspection operators for the nose clips, instead relying on the Keyence VS-L camera system to check, categorise, and store good/defective part data onto a local FTP server. This line will also integrate an automated sorting system which uses the camera output signal to physically separate good/defective parts. 
 
